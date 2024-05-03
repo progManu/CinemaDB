@@ -12,8 +12,9 @@ This repository contains the codebase for a barebone cinema database application
 
 ## Technologies Used
 - **Frontend:** Java
-- **Database:** MySQL
+- **Database:** MySQL, DataGrip
 - **Version Control:** Git
+- **Diagrams:** [AppDiagrams](https://app.diagrams.net/)
 
 ## Notes
 The blueprint folder has all the project layouts (it's not a coding part just the relational database design)
